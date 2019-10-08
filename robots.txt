@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phouviefez.benloop.com/sitemap.xml
